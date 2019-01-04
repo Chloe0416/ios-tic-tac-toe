@@ -13,6 +13,9 @@
 		9EE21F5D21DFDA2900E8EC2D /* Tic_Tac_Toe.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9EE21F5B21DFDA2900E8EC2D /* Tic_Tac_Toe.xcdatamodeld */; };
 		9EE21F5F21DFDA2A00E8EC2D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EE21F5E21DFDA2A00E8EC2D /* Assets.xcassets */; };
 		9EE21F6221DFDA2A00E8EC2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EE21F6021DFDA2A00E8EC2D /* LaunchScreen.storyboard */; };
+		9EE21F6C21DFDA9E00E8EC2D /* Cross.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EE21F6921DFDA9D00E8EC2D /* Cross.png */; };
+		9EE21F6D21DFDA9E00E8EC2D /* Nought.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EE21F6A21DFDA9E00E8EC2D /* Nought.png */; };
+		9EE21F6E21DFDA9E00E8EC2D /* Board.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EE21F6B21DFDA9E00E8EC2D /* Board.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		9EE21F5E21DFDA2A00E8EC2D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9EE21F6121DFDA2A00E8EC2D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9EE21F6321DFDA2A00E8EC2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9EE21F6921DFDA9D00E8EC2D /* Cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Cross.png; path = ../../Cross.png; sourceTree = "<group>"; };
+		9EE21F6A21DFDA9E00E8EC2D /* Nought.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Nought.png; path = ../../Nought.png; sourceTree = "<group>"; };
+		9EE21F6B21DFDA9E00E8EC2D /* Board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Board.png; path = ../../Board.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				9EE21F6021DFDA2A00E8EC2D /* LaunchScreen.storyboard */,
 				9EE21F6321DFDA2A00E8EC2D /* Info.plist */,
 				9EE21F5B21DFDA2900E8EC2D /* Tic_Tac_Toe.xcdatamodeld */,
+				9EE21F6B21DFDA9E00E8EC2D /* Board.png */,
+				9EE21F6921DFDA9D00E8EC2D /* Cross.png */,
+				9EE21F6A21DFDA9E00E8EC2D /* Nought.png */,
 			);
 			path = "Tic Tac Toe";
 			sourceTree = "<group>";
@@ -125,8 +134,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9EE21F6E21DFDA9E00E8EC2D /* Board.png in Resources */,
+				9EE21F6D21DFDA9E00E8EC2D /* Nought.png in Resources */,
 				9EE21F6221DFDA2A00E8EC2D /* LaunchScreen.storyboard in Resources */,
 				9EE21F5F21DFDA2A00E8EC2D /* Assets.xcassets in Resources */,
+				9EE21F6C21DFDA9E00E8EC2D /* Cross.png in Resources */,
 				9EE21F5A21DFDA2900E8EC2D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
