@@ -108,7 +108,7 @@
                                 </connections>
                             </button>
                             <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Player X has won!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rzv-ty-oCu">
-                                <rect key="frame" x="62" y="39" width="251" height="48"/>
+                                <rect key="frame" x="32" y="39" width="304" height="48"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="0.1857388616" blue="0.57339501380000002" alpha="0.64372859589041098" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="26"/>
@@ -120,7 +120,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="lable" destination="rzv-ty-oCu" id="o5F-tZ-MzK"/>
+                        <outlet property="label" destination="rzv-ty-oCu" id="8Cd-T7-zYC"/>
                         <outlet property="playAgainButton" destination="WUW-Iy-Y60" id="0lC-Iz-9Qi"/>
                     </connections>
                 </viewController>

@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Tic Tac Toe
 //
-//  Created by keyih on 1/4/19.
-//  Copyright © 2019 keyih. All rights reserved.
+//  Created by keyih on 12/4/18.
+//  Copyright © 2018 keyih. All rights reserved.
 //
 
 import UIKit
